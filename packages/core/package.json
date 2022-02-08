@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@esl-cli-dev/utils": "^1.0.4"
+    "@esl-cli-dev/utils": "^1.0.5"
   },
   "gitHead": "cda66495f19916605c4666037b3b39baccc0c562"
 }
