@@ -1,6 +1,6 @@
 {
   "name": "@esl-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "esl-cli-dev core",
   "author": "hqy <1012927920@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@esl-cli-dev/utils": "^1.0.1"
+    "@esl-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "f1dadcdd918127e14e171d4286314187073b31d0"
 }
