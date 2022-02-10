@@ -1,3 +1,3 @@
 #! /use/bin/env node
 
-console.log('hello esl！.');
+console.log('hello esl!');
